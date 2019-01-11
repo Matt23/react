@@ -1,0 +1,23 @@
+{
+	"tareas": 
+	[
+		{
+			"title": "Tarea 1", 
+			"responsable": "Matias",
+			"description": "Tarea nro uno.",
+			"prioridad": "baja"
+		},
+		{
+			"title": "Tarea 2", 
+			"responsable": "Juan",
+			"description": "Tarea nro dos.",
+			"prioridad": "alta"
+		},
+		{
+			"title": "Tarea 3", 
+			"responsable": "Pepe",
+			"description": "Tarea nro tres.",
+			"prioridad": "media"
+		}
+	]
+}
